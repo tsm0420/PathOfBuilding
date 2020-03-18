@@ -1,5 +1,7 @@
 # Path of Building
 
+## It is my version of POB now
+
 Welcome to Path of Building, an offline build planner for Path of Exile!
 ## Features
 * Comprehensive offence + defence calculations:
@@ -40,7 +42,7 @@ Welcome to Path of Building, an offline build planner for Path of Exile!
   * Share builds with other users by generating a share code
   * Automatic updating; most updates will only take a couple of seconds to apply
   * Somewhat more open source than usual (look in %ProgramData%\Path of Building if you're interested)
-  
+
 ## Download
 Head over to the [Releases](https://github.com/Openarl/PathOfBuilding/releases) page to download the installer.
 
